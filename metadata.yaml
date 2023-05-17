@@ -1,0 +1,35 @@
+_repo: Les-roses-d-Ispahan-La-Perse-en-automobile-a-travers-la-Russie-et-le-Caucase_70650
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anet, Claude
+    alias: Schopfer, Jean
+    birthdate: 1868
+    deathdate: 1931
+    gutenberg_agent_id: '8829'
+    url: http://www.gutenberg.org/2009/agents/8829
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean_Schopfer
+    - https://fr.wikipedia.org/wiki/Claude_Anet
+description: ''
+gutenberg_issued: '2023-04-27'
+identifiers:
+  gutenberg: '70650'
+language: fr
+pgterms:marc904: https://archive.org/details/laperseenautomob00anet
+pgterms:marc905: 20210510150356anet
+pgterms:marc906: '1906'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Hans Pieterse and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aFrance :$bFélix Juven, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Iran -- Description and travel'
+- !lcc 'DS'
+- GITenberg
+title: 'Les roses d''Ispahan: La Perse en automobile à travers la Russie et le Caucase'
+url: http://www.gutenberg.org/ebooks/70650
